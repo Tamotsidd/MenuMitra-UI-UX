@@ -39,5 +39,4 @@ https://www.figma.com/proto/q5oxvNvTkmLvMfKuiBA5wh/MenuMitra?node-id=1-2&p=f&vie
 **Siddhant Tamrakar**
 UI/UX Designer Intern
 BSc (Hons) Computer Science
-Itahari International College
 
